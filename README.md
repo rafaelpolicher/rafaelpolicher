@@ -6,7 +6,6 @@ Olá, eu sou Rafael Policher 👋
   <p>▶️ Estudando React.js</p>
   <p>✉️ rafaelpolicher@gmail.com</p>
   
-  (https://github-readme-stats.vercel.app/api/top-langs/?rafaelpolicher)(https://github.com/rafaelpolicher/github-readme-stats)
 
 <header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></header>
 
