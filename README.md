@@ -2,8 +2,8 @@ Olá, eu sou Rafael Policher 👋
 
   <p>🔜 Em transição de carreira</p>
   <p>👮 Policial Militar</p>
-  <p>💻 Desenvolvedor Front-End</p>
-  <p>▶️ Estudando React.js</p>
+  <p>💻 Desenvolvedor Web</p>
+  <p>▶️ Especializando em PHP+Laravel</p>
   <p>✉️ rafaelpolicher@gmail.com</p>
   
 
