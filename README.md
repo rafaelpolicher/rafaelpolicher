@@ -2,7 +2,7 @@ Olá, eu sou Rafael Policher 👋
 
   <p>🔜 Em transição de carreira</p>
   <p>👮 Policial Militar</p>
-  <p>💻 Desenvolvedor Web</p>
+  <p>💻 Desenvolvedor</p>
   <p>▶️ Especializando em PHP+Laravel</p>
   <p>✉️ rafaelpolicher@gmail.com</p>
   
